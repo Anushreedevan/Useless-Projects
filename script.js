@@ -3,29 +3,28 @@ document.addEventListener("DOMContentLoaded", function() {
     const loadingScreen = document.getElementById('loading-screen');
     const mainPage = document.getElementById('main-page');
 
-    // Start the loading animation
     setTimeout(() => {
         progressBar.style.width = '100%';
     }, 100);
 
-    // After the animation finishes, hide the loading screen and show the main page
     setTimeout(() => {
         loadingScreen.style.display = 'none';
         mainPage.style.display = 'block';
-    }, 3000); // 3000ms = 3 seconds
+    }, 3000);
 });
 
-// The rest of the JavaScript for button functionality
 async function updateWhistleCount() {
     try {
         const response = await fetch('/get_count');
         const data = await response.json();
-        
+
         const countLabel = document.getElementById('whistle-count');
         countLabel.textContent = `${data.count} / 3`;
 
         if (data.count >= 3) {
             document.getElementById('status-message').textContent = 'Cooker is done! Amma\'s voice played.';
+            document.getElementById('main-page').style.display = 'none';
+            document.getElementById('video-page').style.display = 'flex'; // Show video page
             stopListening();
         }
 
@@ -73,5 +72,15 @@ async function stopListening() {
     }
 }
 
+function goBackToMain() {
+    document.getElementById('video-page').style.display = 'none';
+    document.getElementById('main-page').style.display = 'block';
+    document.getElementById('whistle-count').textContent = '0 / 3'; // Reset counter
+    document.getElementById('status-message').textContent = 'Ready to start.';
+}
+
 document.getElementById('start-button').addEventListener('click', startListening);
 document.getElementById('stop-button').addEventListener('click', stopListening);
+document.getElementById('back-to-main').addEventListener('click', goBackToMain);
+
+updateWhistleCount();
