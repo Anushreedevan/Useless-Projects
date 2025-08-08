@@ -1,7 +1,7 @@
 body {
     font-family: sans-serif;
     text-align: center;
-    background-color: #e4e144;
+    /* We'll remove the background from here so we can set it on the divs */
 }
 
 #loading-screen {
@@ -10,16 +10,33 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
+    background-image:url("D:\Useless projects\Useless-Projects\cookblur.jpg"); /* A warm, inviting orange for the loading screen */
+}
+
+#main-page {
+    /* This is the new CSS for your main page */
+    display: none; /* It will be hidden initially */
+    height: 100vh;
+    background-image:url("D:\Useless projects\Useless-Projects\cook3.png") /* A cool, fresh blue for the main content */
+    padding: 20px;
 }
 
 #progress-bar {
     width: 300px;
-    height: 20gipx;
+    height: 20px;
     background-color: #ddd;
     border-radius: 10px;
     overflow: hidden;
     margin-top: 20px;
 }
+
+#progress-fill {
+    height: 100%;
+    width: 0%;
+    background-color: #4CAF50;
+    transition: width 3s linear;
+}
+
 
 #progress-fill {
     height: 100%;
