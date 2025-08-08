@@ -28,10 +28,6 @@ For Software:
 - Frameworks: Flask (for the backend)
 - Libraries: pyaudio, numpy, scipy, pydub
 - Tools: VS Code, Git/GitHub
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
