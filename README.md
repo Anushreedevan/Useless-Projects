@@ -33,7 +33,7 @@ For Software:
 For Software:
 # Installation
 # Clone the repository
-git clone [Your GitHub Repo Link]
+git clone https://github.com/Anushreedevan/Useless-Projects.git
 
 # Install Python dependencies
 pip install Flask
