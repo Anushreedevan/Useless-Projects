@@ -32,17 +32,17 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-# Clone the repository
+Clone the repository
 git clone https://github.com/Anushreedevan/Useless-Projects.git
 
-# Install Python dependencies
+Install Python dependencies
 pip install Flask
 pip install pyaudio
 pip install numpy
 pip install pydub
 pip install scipy
 # Run
-# Start the Flask backend server
+Start the Flask backend server
 python app.py
 
 ### Project Documentation
@@ -50,9 +50,9 @@ For Software:
 
 # Screenshots (Add at least 3)
 
-<img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="Screenshot 2025-08-09 043505(2)"/>
+<img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="Screenshot 2025-08-09 043505(2).png"/>
 
-<img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="Screenshot 2025-08-09 043918"/>
+<img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="Screenshot 2025-08-09 043918.png"/>
 
 
 
