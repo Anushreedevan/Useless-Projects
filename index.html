@@ -6,6 +6,7 @@
 </head>
 <body>
     <div id="loading-screen">
+        <img src="cooker.gif" alt="Pressure Cooker">
         <div id="progress-bar">
             <div id="progress-fill"></div>
         </div>
@@ -13,8 +14,22 @@
     </div>
 
     <div id="main-page" style="display:none;">
-        <h1>Welcome to the Pressure Cooker Alarm!</h1>
+        <h1>വിസിൽ എണ്ണാൻ മറക്കാത്ത മകൻ</h1>
+
+        <div class="timer-container">
+            <div class="timer">
+                <span id="whistle-count">0 / 3</span>
+            </div>
+            <div class="timer-line"></div>
         </div>
+        
+        <p id="status-message">Ready to start.</p>
+        
+        <div class="buttons">
+            <button id="start-button">Start</button>
+            <button id="stop-button">Stop</button>
+        </div>
+    </div>
 
     <script src="script.js"></script>
 </body>
