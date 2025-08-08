@@ -4,7 +4,7 @@
 
 
 ## Basic Details
-### Team Name: [Resisisters]
+### Team Name: Resisisters
 
 
 ### Team Members
@@ -13,7 +13,7 @@
 
 
 ### Project Description
-[2-3 lines about what your project does]
+An app  that listens for the whistle of a pressure cooker. It starts a counter from the first whistle and, when a set number of whistles is reached, plays a recorded voice of "Amma" telling you to turn it off. 
 
 ### The Problem (that doesn't exist)
 In the high-stakes world of Indian kitchens, forgetting to count the whistles of a pressure cooker can lead to culinary disaster. The world has yet to invent a reliable, automated system to perform this crucial task, leaving countless dishes overcooked and countless mothers exasperated.
