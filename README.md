@@ -50,9 +50,9 @@ For Software:
 
 # Screenshots (Add at least 3)
 
-<img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="Screenshot 2025-08-09 043505(2)" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="Screenshot 2025-08-09 043505(2)"/>
 
-<img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="Screenshot 2025-08-09 043918" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="Screenshot 2025-08-09 043918"/>
 
 
 
