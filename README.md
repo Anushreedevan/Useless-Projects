@@ -32,10 +32,18 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
+# Clone the repository
+git clone [Your GitHub Repo Link]
 
+# Install Python dependencies
+pip install Flask
+pip install pyaudio
+pip install numpy
+pip install pydub
+pip install scipy
 # Run
-[commands]
+# Start the Flask backend server
+python app.py
 
 ### Project Documentation
 For Software:
