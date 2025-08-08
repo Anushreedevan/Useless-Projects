@@ -49,14 +49,12 @@ python app.py
 For Software:
 
 # Screenshots (Add at least 3)
-<<<<<<< HEAD
 
-=======
-<img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="Screenshot 2025-08-09 043505 (2)" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="Screenshot 2025-08-09 043505(2)" />
 
 <img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="Screenshot 2025-08-09 043918" />
 
->>>>>>> a989d9b152dd1719b36319f3dcd80a0b74e41e6d
+
 
 
 
