@@ -49,8 +49,7 @@ python app.py
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="cook.png" />
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
