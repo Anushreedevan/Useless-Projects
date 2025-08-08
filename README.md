@@ -1,6 +1,6 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-# [Project Name] 🎯
+# Mummy whistle alert 🎯
 
 
 ## Basic Details
@@ -50,50 +50,25 @@ For Software:
 
 # Screenshots (Add at least 3)
 <<<<<<< HEAD
-![alt text](<Screenshot 2025-08-09 043505.png>)
+
 =======
-<img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="cook.png" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="Screenshot 2025-08-09 043505 (2)" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="Screenshot 2025-08-09 043918" />
+
 >>>>>>> a989d9b152dd1719b36319f3dcd80a0b74e41e6d
 
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+User presses 'Start' -> Flask starts audio thread -> Audio thread analyzes sound -> Counter updates frontend -> On final count, Flask sends signal to frontend -> Video plays and 'Amma's voice sounds.
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Anushree- front end devolepment
+- Aparna-  back end devolepment
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
