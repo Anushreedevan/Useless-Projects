@@ -19,7 +19,7 @@ An app  that listens for the whistle of a pressure cooker. It starts a counter f
 In the high-stakes world of Indian kitchens, forgetting to count the whistles of a pressure cooker can lead to culinary disaster. The world has yet to invent a reliable, automated system to perform this crucial task, leaving countless dishes overcooked and countless mothers exasperated.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Mummy whistle alert is a Python-based web app . It provides a visual counter, a circular timer, and when the cooking is complete, it plays a audio with a pre-recorded voice of a mother's loving reminder.
 
 ## Technical Details
 ### Technologies/Components Used
