@@ -8,15 +8,15 @@
 
 
 ### Team Members
-- Team Lead: git add Anushree Devadas - [MACE]
-- Member 2: [AparnaSuresh] - [MACE]
+- Team Lead: Anushree Devadas - MACE
+- Member 2: Aparna Suresh - MACE
 
 
 ### Project Description
 [2-3 lines about what your project does]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+In the high-stakes world of Indian kitchens, forgetting to count the whistles of a pressure cooker can lead to culinary disaster. The world has yet to invent a reliable, automated system to perform this crucial task, leaving countless dishes overcooked and countless mothers exasperated.
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
@@ -24,11 +24,10 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
+- Languages: Python, JavaScript, HTML, CSS
+- Frameworks: Flask (for the backend)
+- Libraries: pyaudio, numpy, scipy, pydub
+- Tools: VS Code, Git/GitHub
 For Hardware:
 - [List main components]
 - [List specifications]
