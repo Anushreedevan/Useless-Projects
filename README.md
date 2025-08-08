@@ -49,7 +49,11 @@ python app.py
 For Software:
 
 # Screenshots (Add at least 3)
+<<<<<<< HEAD
 ![alt text](<Screenshot 2025-08-09 043505.png>)
+=======
+<img width="1920" height="1080" alt="Screenshot 2025-08-09 043505" src="cook.png" />
+>>>>>>> a989d9b152dd1719b36319f3dcd80a0b74e41e6d
 
 
 ![Screenshot3](Add screenshot 3 here with proper name)
